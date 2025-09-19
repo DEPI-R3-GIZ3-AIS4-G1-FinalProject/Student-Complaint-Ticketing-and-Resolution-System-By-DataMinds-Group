@@ -1,0 +1,59 @@
+{
+  "policies": [
+    {
+      "category": "Exam Issues",
+      "priority": "High",
+      "response_time": "30 minutes",
+      "resolution_time": "2 hours",
+      "examples": [
+        "Cannot access exam portal",
+        "Quiz submission failed",
+        "Exam crashed in progress"
+      ]
+    },
+    {
+      "category": "Account & Login",
+      "priority": "High",
+      "response_time": "1 hour",
+      "resolution_time": "4 hours",
+      "examples": [
+        "Forgot password",
+        "Account locked",
+        "Cannot log in to student portal"
+      ]
+    },
+    {
+      "category": "Course Access",
+      "priority": "Medium",
+      "response_time": "2 hours",
+      "resolution_time": "1 business day",
+      "examples": [
+        "Cannot access course page",
+        "Missing course enrollment",
+        "Course materials not visible"
+      ]
+    },
+    {
+      "category": "General IT Support",
+      "priority": "Low",
+      "response_time": "4 hours",
+      "resolution_time": "3 business days",
+      "examples": [
+        "Email not syncing",
+        "Printer not working",
+        "Slow WiFi on campus"
+      ]
+    },
+    {
+      "category": "Financial & Fees",
+      "priority": "Medium",
+      "response_time": "1 business day",
+      "resolution_time": "3 business days",
+      "examples": [
+        "Unable to pay fees",
+        "Wrong fee amount",
+        "Payment not reflected"
+      ]
+    }
+  ]
+}
